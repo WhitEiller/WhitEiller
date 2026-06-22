@@ -1,49 +1,39 @@
-<h1 align="center">Hi, I'm Your Name</h1>
+<h1 align="center">Hi, I'm WhitEiller</h1>
 
 <p align="center">
-  Developer / Designer / Student / Open Source Enthusiast
+  Developer focused on practical software, automation, and AI-powered tools.
 </p>
 
 <p align="center">
-  <a href="https://your-website.com">Website</a> ·
-  <a href="https://github.com/yourname">GitHub</a> ·
-  <a href="mailto:you@example.com">Email</a>
+  <a href="https://github.com/WhitEiller">GitHub</a>
+  ·
+  <a href="mailto:your-email@example.com">Email</a>
 </p>
 
 ---
 
 ## About Me
 
-- Currently working on: your project
-- Learning: TypeScript, Rust, AI, etc.
-- Interested in: open source, tools, creative coding
-- Fun fact: write something memorable here
+- Building small but useful software projects
+- Learning backend development, AI tools, and modern web technologies
+- Interested in open source and developer productivity
 
 ## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript" />
-  <img src="https://img.shields.io/badge/React-black?logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-black?logo=node.js" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## GitHub Stats
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=github_dark&hide_border=true"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&hide_border=true"
-    alt="GitHub stats"
-  />
-</picture>
-
-## Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project One](https://github.com/yourname/project-one) | Short description | React, TS |
-| [Project Two](https://github.com/yourname/project-two) | Short description | Node.js |
+| [Project One](https://github.com/WhitEiller/project-one) | Short description | Python |
+| [Project Two](https://github.com/WhitEiller/project-two) | Short description | TypeScript |
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=WhitEiller&show_icons=true&hide_border=true" />
+</p>
